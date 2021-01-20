@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-router-module",
+  "version": "1.0.0",
+  "main": "lib/module.js",
+  "repository": "https://github.com/erraX/nuxt-router-module",
+  "author": "erraX <niminjiecide@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "qs": "^6.9.6",
+    "vue": "^2.6.12",
+    "vue-router": "^3.4.9"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0-next.1"
+  }
+}
