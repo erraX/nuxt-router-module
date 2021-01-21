@@ -4,7 +4,7 @@ module.exports = {
   routerModule: {
     path: join(__dirname, 'routes'),
     fileName: 'index.js',
-    routerConfigs: {
+    routerOptions: {
       linkActiveClass: 'custom-active',
       linkExactActiveClass: 'custom-exact-active',
     },

@@ -5,6 +5,7 @@
   "repository": "https://github.com/erraX/nuxt-router-module",
   "author": "erraX <niminjiecide@outlook.com>",
   "license": "MIT",
+  "types": "types/index.d.ts",
   "scripts": {
     "test": "jest"
   },
